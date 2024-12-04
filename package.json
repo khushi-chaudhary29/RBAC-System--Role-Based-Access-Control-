@@ -1,0 +1,37 @@
+{
+  "name": "rbac-system--role-based-access-control-",
+  "version": "1.0.0",
+  "description": "The RBAC System is a simple Role-Based Access Control application built using React. This app allows administrators to manage users and roles with CRUD (Create, Read, Update, Delete) functionalities. It uses React Context API for state management and simulates a backend with a mock API. The UI is styled to be responsive, making it suitable for both desktop and mobile use.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^5.0.0",
+    "axios": "^0.21.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
